@@ -11,4 +11,5 @@
 * 分支创建/切换 git branch dev/git checkout dev  git checkout -b dev;
 * 合并分支 git merge dev;
 * 查看分支 git branch;
+* 合并策略
 
